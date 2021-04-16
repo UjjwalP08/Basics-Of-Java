@@ -1,0 +1,5 @@
+In intellij Idea ide System.out.println shortcut is sout
+
+never use the keyword as the identifier or variable name or class name
+
+For string data type java has special support
