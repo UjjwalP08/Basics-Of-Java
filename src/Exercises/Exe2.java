@@ -25,6 +25,42 @@ public class Exe2 {
             System.out.println("1 for Rock\n2 for Paper\n3 for scissor ");
             int player = s.nextInt();
 
+            if(player == 1)
+            {
+                System.out.println("\nPlayer choose Rock");
+            }
+
+            else if(player == 2)
+            {
+                System.out.println("\nPlayer choose Paper");
+            }
+            else if(player == 3)
+            {
+                System.out.println("\nPlayer choose Scissor");
+            }
+            else
+            {
+                System.out.println("Player made wrong choice!!!!\t Try again!!!!");
+            }
+            if(com == 1)
+            {
+                System.out.println("computer choose Rock\n");
+            }
+
+            else if(com == 2)
+            {
+                System.out.println("computer choose Paper\n");
+            }
+            else if(com == 3)
+            {
+                System.out.println("computer choose Scissor \n");
+            }
+            else
+            {
+                System.out.println("computer made wrong choice!!!!\t Try again!!!!");
+            }
+
+
             if ((player == 1 && com == 2) || (player == 2 && com == 3) || (player == 3 && com == 1)) {
                 com_score += 1;
             } else if (player == com) {
