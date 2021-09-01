@@ -2,7 +2,7 @@
 
 package com.company;
 
-public class No_1_Main {
+public class No_01_Main {
 
     public static void main(String[] args) {
 	// write your code here

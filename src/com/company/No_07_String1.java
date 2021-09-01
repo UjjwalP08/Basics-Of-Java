@@ -8,7 +8,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class No_7_String1 {
+public class No_07_String1 {
 
     public static void main(String[] args) {
 

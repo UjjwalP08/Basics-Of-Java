@@ -1,6 +1,6 @@
 package com.company;
 
-public class No_8_Strings_Methods {
+public class No_08_Strings_Methods {
 
     public static void main(String[] args) {
 

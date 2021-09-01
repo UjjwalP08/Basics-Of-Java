@@ -4,7 +4,7 @@ import java.util.Scanner;// Import Scanner class
 
 // For read the input from user first we want to import that class
 
-public class No_3_Getting_input {
+public class No_03_Getting_input {
 
     public static void main(String[] args) {
         System.out.println("Read to Input from User");

@@ -4,7 +4,7 @@ package com.company;
 
 import  java.util.Scanner;
 
-public class No_9_If_else {
+public class No_09_If_else {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Your age");

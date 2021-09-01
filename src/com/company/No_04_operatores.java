@@ -12,7 +12,7 @@
 
 package com.company;
 
-public class No_4_operatores {
+public class No_04_operatores {
 
     public static void main(String[] args) {
         System.out.println("Types Of Operators");

@@ -7,7 +7,7 @@
 
 package com.company;
 
-public class No_5_Assocativites {
+public class No_05_Assocativites {
     public static void main(String[] args) {
         int a = 9 * 4 - 50 / 5;
         /*

@@ -11,7 +11,7 @@
   */
 package com.company;
 
-public class No_6_Resulting_Data_type {
+public class No_06_Resulting_Data_type {
 
     public static void main(String[] args) {
         byte b=9;
